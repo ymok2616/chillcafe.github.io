@@ -1,0 +1,75 @@
+@media screen and (max-width:1200px) {
+ .container {
+    width:100%;
+  }
+
+
+  .about {
+    margin: 32px auto!important;
+  }
+
+  .coffe-imformation {
+    width: 100%;
+  }
+ .cafe-map{
+    width: 100%;
+ }
+
+
+ .coffee-inner {
+   width: 100%;
+ }
+
+}
+
+@media screen and (max-width:785px) {
+
+  .coffe-imformation-column-right {
+    border-left: 0;
+
+  }
+
+  .about {
+    width:100%;
+  }
+
+  .abouts {
+    margin-left: 16px;
+    margin-right: 16px;
+
+  }
+
+  .abouts img {
+    width: 50%;
+  }
+
+  .coffe-description {
+    width: 100%;
+  }
+
+ .coffe-menu {
+    padding: 0;
+  }
+
+ .coffe-menu-d {
+    padding: 0;
+  }
+
+  .footer {
+    font-size: 0.6rem;
+  }
+
+  .scroll {
+    display: none;
+  }
+
+  .page-header {
+    width: 40%;
+    margin: 0 auto;
+    font-size: 13px;
+
+  }
+
+
+
+}
